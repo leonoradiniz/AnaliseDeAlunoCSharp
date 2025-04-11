@@ -1,0 +1,15 @@
+bin/
+obj/
+
+*.user
+*.suo
+*.userprefs
+
+.vscode/
+
+*.nupkg
+*.snupkg
+*.nuget.props
+*.nuget.targets
+project.assets.json
+project.nuget.cache
